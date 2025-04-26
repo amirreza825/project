@@ -218,5 +218,16 @@ body {
 }
 
 
+.snapp-apps-link{
+    min-height: 30vh;
+    content-visibility: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 8rem;
+}
+
+
 
 
